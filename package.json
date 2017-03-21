@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/halo123u/weather-app#readme",
   "dependencies": {
+    "axios": "^0.15.3",
     "request": "^2.81.0",
     "yargs": "^7.0.2"
   }
